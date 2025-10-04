@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!-- Profile Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi,%20I'm%20not-cmd!&fontSize=40&animation=twinkling" alt="header" />
@@ -12,96 +10,118 @@
 
 ---
 
-## 👋 Welcome to my GitHub
+<h2 align="center">👋 Welcome to my GitHub</h2>
 
-I'm **not-cmd**, passionate about building, learning, and sharing open source software. Here you'll find a selection of my projects, code samples, and contributions.
+<p align="center">
+  I'm <b>not-cmd</b>, passionate about building, learning, and sharing open source software.<br>
+  Here you'll find a selection of my projects, code samples, and contributions.
+</p>
 
 ---
 
-### 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
-<!-- Replace these with your actual project names and descriptions -->
-- [Project 1](https://github.com/not-cmd/Cancer-Gene-Dependency): _Project Brief: Cancer Gene Dependency Prediction with Multi-modal Graph Neural Networks
+<details>
+  <summary><b>Cancer Gene Dependency Prediction</b> — <a href="https://github.com/not-cmd/Cancer-Gene-Dependency">Repo Link</a></summary>
+  <blockquote>
+    <b>Core Objective:</b> Predict essential cancer genes by modeling multi-modal omics relationships using graph neural networks.<br>
+    <b>Highlights:</b> Heterogeneous graph, multi-modal integration, HGT architecture, DepMap dataset, 3D visualization, model interpretability.<br>
+    <b>Impact:</b> Drug discovery, personalized medicine, and research insights.
+  </blockquote>
+</details>
 
-Core Objective: Predict essential cancer genes by modeling complex relationships between cell lines and their multi-omics profiles using advanced graph neural networks.
+<details>
+  <summary><b>GuardianRoute (School Bus AI Safety Platform)</b> — <a href="https://github.com/not-cmd/busface">Repo Link</a></summary>
+  <blockquote>
+    AI-powered school transport safety: real-time tracking, automated attendance, intruder detection, live chat, and emergency alerts.<br>
+    <b>Stack:</b> Next.js, ShadCN UI, Tailwind, Firebase, Genkit, Mapbox.
+  </blockquote>
+</details>
 
-🧬 What It Does
-
-Builds a heterogeneous graph connecting cancer cell lines and genes through three biological relationships: mutations, copy number alterations, and gene expression
-Uses Heterogeneous Graph Transformers (HGT) to learn from this multi-modal data
-Predicts gene dependency scores - measuring how essential each gene is for cancer cell survival
-🔑 Key Innovations
-
-Novel Graph Structure: Models biological data as an interconnected network rather than separate datasets
-Multi-modal Integration: Combines mutation, copy number, and expression data in one unified framework
-State-of-the-Art ML: Implements cutting-edge HGT architecture with attention mechanisms
-Therapeutic Relevance: Directly identifies potential drug targets for cancer treatment
-📊 Technical Highlights
-
-Processes 6.6GB DepMap dataset - gold standard in cancer genomics
-Creates 3D visualizations of learned cell line embeddings colored by cancer type
-Benchmarks against traditional methods for high-accuracy predictions
-Provides model interpretability through attention weights
-🎯 Impact & Applications
-
-Drug Discovery: Identifies vulnerable genes for targeted cancer therapies
-Personalized Medicine: Predicts gene dependencies across different cancer types
-Research Tool: Provides insights into cancer biology through learned embeddings
-_
-- [Project 2](https://github.com/not-cmd/busface): _Project Brief: GuardianRoute
-
-GuardianRoute is an AI-driven school transportation safety platform designed to protect students during their daily commute. It provides real-time tracking, automated attendance, and seamless communication among administrators, bus staff, and parents—creating a transparent and secure school transport ecosystem.
-
-⸻
-
-Key Features
-	1.	AI-Powered Attendance & Intruder Detection
-Uses computer vision and Gemini-based AI models to automatically recognize students, mark attendance, and detect intruders or wrong bus boardings in real time via live camera feeds.
-	2.	Live Bus Tracking
-Integrates GPS through Firebase Realtime Database and Mapbox to provide continuous updates on bus locations, enabling instant visibility for admins and parents.
-	3.	AI Insights & Safety Analytics
-Employs Genkit to generate natural-language attendance summaries and driver safety scores based on behavioral data like speeding or braking patterns.
-	4.	Smart Chatbot & Messaging System
-Offers parents an AI-powered chatbot for common queries and a live chat channel with admins, ensuring timely communication and support.
-	5.	Emergency & Alert System
-Includes panic and automated alert mechanisms that instantly notify admins and parents of emergencies, speeding, or unauthorized activity.
-
-⸻
-
-Technology Stack
-	•	Frontend: Next.js (React + TypeScript)
-	•	UI: ShadCN UI + Tailwind CSS
-	•	Backend & Real-Time Sync: Firebase Realtime Database
-	•	AI Engine: Google Genkit with Gemini models
-	•	Mapping: Mapbox
-	•	Deployment: Firebase App Hosting
-
-⸻
-
-Summary
-
-GuardianRoute combines real-time data, AI-based vision systems, and generative intelligence to redefine school commute safety. It transforms traditional bus monitoring into an intelligent, proactive, and collaborative system that enhances trust, accountability, and student protection._
-
-- [Project 3](https://github.com/not-cmd/ExpenseTracker): _This Kotlin-based Android application is built using Gradle for efficient project management and build automation. The app structure follows modern Android development practices, enabling fast, reliable, and incremental builds. With optimized Gradle tasks and dependency handling, the project ensures smooth development, quick iteration, and maintainable code.._
+<details>
+  <summary><b>Expense Tracker (Android)</b> — <a href="https://github.com/not-cmd/ExpenseTracker">Repo Link</a></summary>
+  <blockquote>
+    Kotlin app with Gradle automation, modular code, and scalable architecture.<br>
+    <b>Features:</b> Fast builds, clean architecture, secure config, real-time updates.
+  </blockquote>
+</details>
 
 > See all my repositories: [github.com/not-cmd?tab=repositories](https://github.com/not-cmd?tab=repositories)
 
 ---
 
-### 📊 My GitHub Stats
+<h2 align="center">📊 My GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=not-cmd&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
----
-
-### 📫 Connect with Me
-
-- 🔗 [GitHub Profile](https://github.com/not-cmd)
-- 📝 [Gists](https://gist.github.com/not-cmd)
+<p align="center">
+  <img src="https://img.shields.io/badge/Public%20Repos-19-blue?style=for-the-badge&logo=github"/>
+  <!-- Add total repo count dynamically if possible -->
+</p>
 
 ---
+
+<h2 align="center">🧠 Programming Languages</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+<p align="center">
+  <b>Python</b> – AI, Machine Learning, Neural Networks, Computer Vision, backend<br>
+  <b>JavaScript</b> – Web development and client-side logic<br>
+  <b>TypeScript</b> – Scalable frontend development (React, Next.js)<br>
+  <b>Kotlin</b> – Android application development<br>
+  <b>Java</b> – Backend systems and general-purpose<br>
+  <b>C++</b> – Algorithms, performance modules<br>
+  <b>SQL</b> – PostgreSQL, MongoDB, Firebase<br>
+  <b>HTML & CSS</b> – Responsive web structure and styling
+</p>
+
+---
+
+<h2 align="center">⚙️ Technologies & Frameworks</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Mapbox-4264FB?style=for-the-badge&logo=mapbox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Genkit-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Torch%20Geometric-33AADD?style=for-the-badge&logo=pytorch&logoColor=white"/>
+</p>
+
+---
+
+<h2 align="center">🧰 Tools & Platforms</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git%20&%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"/>
+</p>
+
+---
+
+<h2 align="center">📫 Connect with Me</h2>
+
+<p align="center">
+  🔗 <a href="https://github.com/not-cmd">GitHub Profile</a> | 📝 <a href="https://gist.github.com/not-cmd">Gists</a>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="footer" />
